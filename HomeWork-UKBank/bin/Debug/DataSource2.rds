@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource2">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=DESKTOP-SOT931S\SQLEXPRESS;Initial Catalog=UKBank</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>a99f5ab7-6a08-4cab-9d66-d6cb716481a2</DataSourceID>
+</RptDataSource>

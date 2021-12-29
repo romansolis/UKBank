@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS-UKBankRomanSolis", "SSRS-UKBankRomanSolis.rptproj", "{2E975092-292E-47ED-A637-B5A8D4A4A650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.Debug|Default.ActiveCfg = Debug
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.Debug|Default.Build.0 = Debug
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.Debug|Default.Deploy.0 = Debug
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.DebugLocal|Default.Build.0 = DebugLocal
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.Release|Default.ActiveCfg = Release
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.Release|Default.Build.0 = Release
+		{2E975092-292E-47ED-A637-B5A8D4A4A650}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E31C9A-992D-4843-A6F2-D4731AA3AA20}
+	EndGlobalSection
+EndGlobal
